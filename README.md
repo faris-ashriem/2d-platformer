@@ -1,2 +1,2 @@
 # 2d-platformer
-2D game winning 2nd place in a college GameJam
+A 2D Game Which Was Awarded 2nd Place in a College GameJam
