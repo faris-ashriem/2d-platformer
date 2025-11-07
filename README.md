@@ -1,6 +1,6 @@
 # 2D Platformer Game "Bullseye"  
 
----  
+
 
 This game was built by a team of four people, where we had 24 hours to try and create the best game possible.  
   
