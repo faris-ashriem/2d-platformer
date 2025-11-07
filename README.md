@@ -3,10 +3,12 @@
 
 
 This game was built by a team of four people, where we had 24 hours to try and create the best game possible.  
+
+This project was built entirely in **Godot** using **GDScript.**
   
 The design theme that we were given was **Cyberpunk**.  
   
-The gameplay mechanic theme was **"You Only Get One ___"**.  
+The gameplay mechanic theme was **"You Only Get One ___".**  
 
 Our team decided on to base our game around "You Only Get One Bullet".  
 
