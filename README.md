@@ -1,6 +1,12 @@
 # 2D-Platformer  
 
+---
 
+<p align="center">
+  <a href="visuals/BullseyeGIF.gif">
+    <img src="visuals/BullseyeGIF.gif" width="540">
+  </a>
+</p>
 
 This game was built by a team of four people, where we had 24 hours to try and create the best game possible.  
 
