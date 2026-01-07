@@ -20,8 +20,6 @@ We built a 2D platformer game which earned 2nd place in this event!
   </a>
 </p>
 
----
-
 # Key Features
 
 - "One bullet" is implemented as the core mechanic
